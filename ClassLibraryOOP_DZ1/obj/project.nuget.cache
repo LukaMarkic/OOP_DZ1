@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lCVzI6ELDOYi29AK0WB54tdc+8h5y+Ave2f36G2oszJqCwoAW5ygSq1FDGFf3pnf2qtCVLvjpurmYd77rDX7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LEGION\\Desktop\\Objektno\\ClassLibraryOOP_DZ1\\ClassLibraryOOP_DZ1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LEGION\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

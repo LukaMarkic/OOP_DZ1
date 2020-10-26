@@ -1,0 +1,9 @@
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\bin\Debug\netstandard2.0\ClassLibraryOOP_DZ1.deps.json
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\bin\Debug\netstandard2.0\ClassLibraryOOP_DZ1.dll
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\bin\Debug\netstandard2.0\ClassLibraryOOP_DZ1.pdb
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\obj\Debug\netstandard2.0\ClassLibraryOOP_DZ1.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\obj\Debug\netstandard2.0\ClassLibraryOOP_DZ1.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\obj\Debug\netstandard2.0\ClassLibraryOOP_DZ1.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\obj\Debug\netstandard2.0\ClassLibraryOOP_DZ1.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\obj\Debug\netstandard2.0\ClassLibraryOOP_DZ1.dll
+C:\Users\LEGION\source\repos\ClassLibraryOOP_DZ1\obj\Debug\netstandard2.0\ClassLibraryOOP_DZ1.pdb
