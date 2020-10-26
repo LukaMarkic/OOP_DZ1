@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OOP_DZ1/1.0.0": {
+        "dependencies": {
+          "ClassLibraryOOP_DZ1": "1.0.0"
+        },
+        "runtime": {
+          "OOP_DZ1.dll": {}
+        }
+      },
+      "ClassLibraryOOP_DZ1/1.0.0": {
+        "runtime": {
+          "ClassLibraryOOP_DZ1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_DZ1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryOOP_DZ1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
